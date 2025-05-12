@@ -1,5 +1,8 @@
 # RabbitMQ Demo
 
+![rabbitmq](https://github.com/user-attachments/assets/44dfcdde-965e-4f0f-befe-dced71987979)
+
+
 A multi-language demonstration of RabbitMQ producers and consumers implemented in Go, JavaScript, and Python.
 
 ## Quick Start
